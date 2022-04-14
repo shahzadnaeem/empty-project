@@ -1,4 +1,5 @@
 # empty-project
+
 Empty project for JS/Jasmine/ESLint
 
 ## Requirements
@@ -15,3 +16,7 @@ Enable Editor:Format On Save
 ## Setup
 
 - npm install
+
+## Run Tests
+
+- npm test

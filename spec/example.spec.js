@@ -1,5 +1,15 @@
+const Example = require('../src/example')
+
+const NUM_VAL = 2
+
 describe('example', () => {
-  it('passes', () => {
-    expect(true).toBe(true)
+  let subject
+
+  beforeEach(() => {
+    subject = new Example(NUM_VAL)
+  })
+
+  it('Test 1', () => {
+    expect(subject.getNum()).toBe(NUM_VAL)
   })
 })
