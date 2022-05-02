@@ -1,6 +1,7 @@
 # empty-project
 
-Empty project for JS/Jasmine/ESLint
+Empty project for NodeJS/Jasmine/ESLint
+Also contains simple HTML page with JS generated update
 
 ## Requirements
 
